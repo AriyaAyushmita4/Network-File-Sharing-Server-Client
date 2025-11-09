@@ -99,10 +99,10 @@ Run the client
 Login using valid credentials from users.txt.
 
 Try commands:
-LIST
-UPLOAD test.txt
-DOWNLOAD test.txt
-EXIT
+- LIST
+- UPLOAD test.txt
+- DOWNLOAD test.txt
+- EXIT
 
 Verify:
 Uploaded files appear in the shared_folder directory.
@@ -112,5 +112,6 @@ Downloaded files match the originals.
 
 - Ariya Ayushmita
 - Wipro Training Program – Batch 4
+
 
 
